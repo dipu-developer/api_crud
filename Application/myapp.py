@@ -1,3 +1,4 @@
+# This is an external application to acces the api
 import requests
 import json
 
